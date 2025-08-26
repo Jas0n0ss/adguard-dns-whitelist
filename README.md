@@ -2,9 +2,12 @@
 
 > DNS whitelist rules for **Home**, **Enterprise**, and **Hybrid** environments, **automatically updated daily** to fix false positives in AdGuard Home.
 
-[![License: MIT](https://p.ipic.vip/m7b6qe.jpg)](LICENSE)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI/CD Status](https://github.com/jas0n0ss/adguard-dns-whitelist/actions/workflows/update-rules.yml/badge.svg)](https://github.com/jas0n0ss/adguard-dns-whitelist/actions)
-[![Last Updated](https://p.ipic.vip/exwdtx.jpg)](https://github.com/jas0n0ss/adguard-dns-whitelist/actions)
+[![Last Updated](https://img.shields.io/badge/Last_Updated-Daily-brightgreen.svg)](https://github.com/jas0n0ss/adguard-dns-whitelist/actions)
+
+
 
 This project provides **curated DNS whitelist rules** for AdGuard Home, automatically updated every day to ensure compatibility with streaming, office tools, gaming, and smart devices.
 
