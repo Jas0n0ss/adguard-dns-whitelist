@@ -1,25 +1,19 @@
-# 流媒体
-*.youtube.com
-*.ytimg.com
+*.apple.com
+*.disneyplus.com
+*.ggpht.com
 *.googlevideo.com
+*.icloud.com
+*.mi.com
 *.netflix.com
 *.nflximg.com
 *.nflxvideo.net
-*.disneyplus.com
-*.iqiyi.com
-*.youku.com
-
-# 游戏平台
+*.nintendo.com
+*.playstation.com
+*.smartlife.cloud
 *.steampowered.com
 *.steamstatic.com
-*.epicgames.com
+*.tuya.com
 *.xboxlive.com
-*.playstation.com
-
-# 智能家居
-*.mi.com
 *.xiaomi.com
-*.tplinkiot.com
-*.tuyausa.com
-*.apple.com
-*.icloud.com
+*.youtube.com
+*.ytimg.com
