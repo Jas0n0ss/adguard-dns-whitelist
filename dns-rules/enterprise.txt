@@ -1,0 +1,18 @@
+# Microsoft 365
+*.office.com
+*.microsoftonline.com
+*.sharepoint.com
+*.outlook.com
+*.teams.microsoft.com
+
+# 协作工具
+*.dingtalk.com
+*.feishu.cn
+*.larksuite.com
+*.zoom.us
+*.webex.com
+
+# 通用服务
+*.google.com
+*.gstatic.com
+*.googleapis.com

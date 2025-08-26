@@ -1,0 +1,50 @@
+# Microsoft 365
+*.office.com
+*.microsoftonline.com
+*.sharepoint.com
+*.outlook.com
+*.teams.microsoft.com
+
+# 协作工具
+*.dingtalk.com
+*.feishu.cn
+*.larksuite.com
+*.zoom.us
+*.webex.com
+
+# 通用服务
+*.google.com
+*.gstatic.com
+*.googleapis.com
+###
+# 流媒体
+*.youtube.com
+*.ytimg.com
+*.googlevideo.com
+*.netflix.com
+*.nflximg.com
+*.nflxvideo.net
+*.disneyplus.com
+*.iqiyi.com
+*.youku.com
+
+# 游戏平台
+*.steampowered.com
+*.steamstatic.com
+*.epicgames.com
+*.xboxlive.com
+*.playstation.com
+
+# 智能家居
+*.mi.com
+*.xiaomi.com
+*.tplinkiot.com
+*.tuyausa.com
+*.apple.com
+*.icloud.com
+##
+# 补充通用 CDN（防止资源加载失败）
+*.akamaihd.net
+*.akamaiedge.net
+*.cloudfront.net
+*.fastly.net

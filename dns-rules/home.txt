@@ -1,0 +1,25 @@
+# 流媒体
+*.youtube.com
+*.ytimg.com
+*.googlevideo.com
+*.netflix.com
+*.nflximg.com
+*.nflxvideo.net
+*.disneyplus.com
+*.iqiyi.com
+*.youku.com
+
+# 游戏平台
+*.steampowered.com
+*.steamstatic.com
+*.epicgames.com
+*.xboxlive.com
+*.playstation.com
+
+# 智能家居
+*.mi.com
+*.xiaomi.com
+*.tplinkiot.com
+*.tuyausa.com
+*.apple.com
+*.icloud.com
